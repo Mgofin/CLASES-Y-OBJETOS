@@ -7,17 +7,17 @@ El programa nos ayuda a gestionar colecciones de libros, de manera sencilla y or
 # Capturas de ejecución
 
 ## Ingreso de datos
-1 CAP DE PANTALLA
+1 CAP DE PANTALLA.
 El usuario debe de introducir la información de cada libro, lo que se pide es el título, autor, año, edición y páginas.
 
 ## Registro de algunos libros
-2 CAP DE PANTALLA
+2 CAP DE PANTALLA.
 Se repite el proceso hasta completar al menos 5 libros que es el mínimo que se pide.
 
 ## Visualización de la lista
-3 CAP DE PANTALLA
+3 CAP DE PANTALLA.
 El programa mostrara en pantalla todos los libros registrados con sus datos completos.
 
 ## Salida
-4 CAP DE PANTALLA
+4 CAP DE PANTALLA.
 Como se observa en la salida, la información se imprime de manera clara y estructurada.
