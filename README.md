@@ -4,6 +4,9 @@
 Este programa nos permite registrar y visualizar información de libros exactamente.
 El programa nos ayuda a gestionar colecciones de libros, de manera sencilla y organizada, prácticamente tenemos que ingresar los datos básicos, como el título, el autor, el año, la edición y páginas, el sistema creara un registro completo y lo mostrara en pantalla con un formato claro y profesional.
 
+## Importancia de la encapsulación
+La encapsulación es importante porque permite proteger los datos de un objeto y controlar cómo se accede a ellos, en esta practica los atributos del libro están privados, lo que significa que no se puede modificar directamente desde fuera de la clase.
+
 # Capturas de ejecución
 
 ## Ingreso de datos
