@@ -7,7 +7,7 @@ El programa nos ayuda a gestionar colecciones de libros, de manera sencilla y or
 # Capturas de ejecución
 
 ## Ingreso de datos
-1 CAP DE PANTALLA.
+<img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/ae3db5db-fb02-4d2c-b7dc-f52bf8763447" />
 El usuario debe de introducir la información de cada libro, lo que se pide es el título, autor, año, edición y páginas.
 
 ## Registro de algunos libros
